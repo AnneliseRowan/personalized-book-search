@@ -28,6 +28,5 @@ A user can view their saved books on a separate page, as shown in the following 
 
 ## Deployed Site
 
-*[Heroku Deployed](Site Link)
+*[Heroku Deployed](https://secure-springs-87221.herokuapp.com/)
 
-'testing'
